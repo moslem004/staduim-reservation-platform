@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login.php
+Allow: /
+Sitemap: https://reserveandplay.ct.ws/sitemap.xml
